@@ -1,0 +1,123 @@
+#baniereimg{
+	background-image: url(img/image.jpg);
+	background-size: cover;
+	min-height: 500px;
+
+}
+
+
+#fondnoir{
+	background-color: red;
+	color: white;
+	letter-spacing: 2px;
+	font-size: 1.2em;
+	opacity: 0.8;
+}
+#posrel{
+	background-color: white;
+	color: black;
+	position: relative;
+	top: 0px;
+	left: 25px;
+	letter-spacing: 2px;
+	font-size: 1.2em;
+	opacity: 0.8;
+}
+
+#btn-log{
+	padding: -5px auto px;
+	
+}
+
+.navbar{
+	
+}
+.red:hover{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	border-bottom: 3px solid red;
+	color: white;
+	background-color: #aaa;
+}
+
+
+#services, #realisation, #contact{
+	background-image: url('img/fondrb.png');
+	background-size: cover;
+}
+
+.white-div{
+	width:100px;
+    height: 2px;
+    background: white;
+    margin: 0 auto 10px;
+	
+}
+
+.red-div{
+	width:100px;
+    height: 2px;
+    background: #d82c2e;
+    margin: 0 auto 10px;
+	
+}
+
+.card-title{
+	color: #d82c2e;
+	font-weight: bold;
+}
+
+h2{
+	color: white;
+}
+
+i{
+	background-color: white;
+	color: #d82c2e;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+}
+
+.red{
+	color: red;
+}
+
+.pageservice{
+	color: red;
+}
+
+section{
+
+}
+
+#titreservice{
+	color: red;
+}
+a
+{
+     color: white;
+    text-decoration: none !important;
+}
+a:hover
+{
+     color: white;
+    text-decoration: #fff;
+    text-decoration: none !important;
+}
+#coming h5 
+{
+    text-align: center;
+    text-transform: uppercase;
+    background: #d82c2e;
+    width: 200px;
+    height: 45px;
+    padding: auto ;
+    border-radius: 3px;
+}
+#coming
+{
+    margin: 20px auto;
+    padding: auto;
+    background: 
+}
